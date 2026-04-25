@@ -1,0 +1,13 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral
+2020-01-01,Kenya,Uganda,2,1,Friendly,Nairobi,Kenya,FALSE
+2020-01-05,Tanzania,Kenya,0,0,Friendly,Dar es Salaam,Tanzania,FALSE
+2020-02-10,England,Germany,3,2,International Cup,London,England,FALSE
+2020-03-15,Brazil,Argentina,1,1,Copa America,Rio de Janeiro,Brazil,FALSE
+2021-06-10,France,Spain,2,0,Euro Cup,Paris,France,FALSE
+2021-07-11,Italy,England,1,1,Euro Cup Final,London,England,TRUE
+2022-11-20,Portugal,Ghana,3,1,World Cup,Doha,Qatar,TRUE
+2022-11-24,Brazil,Serbia,2,0,World Cup,Doha,Qatar,TRUE
+2023-03-18,Kenya,Nigeria,1,2,African Cup,Nairobi,Kenya,FALSE
+2023-05-21,Germany,France,0,3,Nations League,Berlin,Germany,FALSE
+2024-02-14,Argentina,Brazil,2,2,Super Classic,Buenos Aires,Argentina,FALSE
+2024-06-10,Spain,Portugal,1,0,International Cup,Madrid,Spain,FALSE
